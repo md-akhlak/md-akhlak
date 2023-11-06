@@ -11,9 +11,7 @@
 
 <br clear="both">
 
-<div align="center">
-  <img height="200" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"  />
-</div>
+<img align="right" height="200" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"  />
 
 ###
 
@@ -75,7 +73,15 @@
   <img src="https://profile-counter.glitch.me/md-akhlak/count.svg?"  />
 </div>
 
+
 [![An image of @mdakhlak's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mdakhlak)](https://holopin.io/@mdakhlak)
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/md-akhlak/md-akhlak/output/snake.svg" alt="Snake animation" />
+
 
 
 ###
