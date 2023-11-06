@@ -2,7 +2,18 @@
 
 ###
 
-<img align="right" height="153" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=md-akhlak&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=md-akhlak&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img height="200" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"  />
+</div>
 
 ###
 
@@ -55,5 +66,17 @@
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=flat" height="32" alt="telegram logo"  />
   </a>
 </div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/md-akhlak/count.svg?"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/md-akhlak/md-akhlak/output/snake.svg" alt="Snake animation" />
 
 ###
