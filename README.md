@@ -68,11 +68,8 @@
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=flat" height="32" alt="telegram logo"  />
   </a>
 </div>
+<br>
 
 [![An image of @mdakhlak's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mdakhlak)](https://holopin.io/@mdakhlak)
-
-
-
-
 
 ###
