@@ -2,11 +2,6 @@
 
 <h2 align="center">Hi 👋! My name is Md. Akhlak,  and I'm a passionate Android Dev. , from India</h2>
 
-
-
-
-
-
 ###
 
 <br clear="both">
@@ -72,9 +67,6 @@
   <a href="https://t.me/mr_akhlak" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=flat" height="32" alt="telegram logo"  />
   </a>
-
-
-
 
   
 </div>
