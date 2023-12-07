@@ -74,6 +74,10 @@
 </div>
 <br>
 
+<div align="center">
+  <img src="https://hacktoberfest.com/_next/static/media/logo-hacktoberfest--horizontal.ebc5fdc8.svg" alt="Alt Text">
+</div>
+
 
 [![An image of @mdakhlak's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mdakhlak)](https://holopin.io/@mdakhlak)
 
