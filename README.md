@@ -47,7 +47,7 @@
 
 ###
 
-https://assets.leetcode.com/static_assets/marketing/2024-50-lg.png
+
 
 <br clear="both">
 
