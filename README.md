@@ -1,3 +1,6 @@
+# 💫 About Me:
+### 👋 About Me<br><br>- 🌱 **I'm currently working on:**  <br>Building impactful mobile apps using Swift, SwiftUI, and UIKit. Currently focusing on projects related to health tech, delivery optimization, and educational tools.<br><br>- 🤝 **I'm looking to collaborate on:**  <br>iOS apps, SaaS products, or any tech ideas that solve real-life problems. Open to hackathons, side projects, or startup collaborations.<br><br>- 🧠 **I'm looking for help with:**  <br>Enhancing my backend integration skills, improving my app architecture knowledge, and learning best practices in system design for scalable apps.<br><br>- 📚 **I'm currently learning:**  <br>Advanced iOS development, Core Data, Combine, and exploring AI integrations in mobile apps.<br><br>- 💬 **Ask me about:**  <br>iOS development, Swift, UI/UX for mobile apps, idea validation, or how to get started with building your first app.<br><br>- 🎯 **Fun Fact:**  <br>I love brainstorming product ideas and turning them into working prototypes. Also, I'm a huge fan of tech meetups and coding challenges!<br>
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mdakhlak) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_akhlak_12) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mdakhlak) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/akhlak_12) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohammadakhlak121@gmail.com) 
@@ -8,6 +11,12 @@
 ![](https://github-readme-stats.vercel.app/api?username=md-akhlak&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=md-akhlak&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=md-akhlak&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=md-akhlak&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=md-akhlak&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=md-akhlak&icon=0&color=0)](https://visitcount.itsvg.in)
